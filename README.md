@@ -8,3 +8,5 @@ Intelligence for Startups
 4. What are the competing products?
 5. Whats the cost to deploy?
 6. Whats the history of this market?
+
+## Horizontal AI || Vertical AI
